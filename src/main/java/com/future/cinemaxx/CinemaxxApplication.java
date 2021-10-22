@@ -9,4 +9,4 @@ public class CinemaxxApplication {
         SpringApplication.run(CinemaxxApplication.class, args);
     }
 }
-//test
+//commment for video
